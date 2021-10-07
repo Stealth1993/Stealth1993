@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding & astronomy.
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me: twitter: @jha_1993
+- 📫 How to reach me: gmail: jha.santosh.1216
 
 <!---
 Stealth1993/Stealth1993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
