@@ -1,7 +1,7 @@
 - 👋 Hi, I’m an Engineer
 - 👀 I’m interested in coding & astronomy.
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to collaborate on automation using python & DevOps projects
 - 📫 How to reach me: gmail: jha.santosh.1216
 
 <!---
