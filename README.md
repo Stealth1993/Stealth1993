@@ -1,8 +1,12 @@
-- 👋 Hi, I’m an Engineer
-- 👀 I’m interested in coding & astronomy.
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on automation using python & DevOps projects
-- 📫 How to reach me: gmail: jha.santosh.1216
+## 👨‍💻 About Me
+ 
+- 🔧 Engineer with a passion for building scalable and automated systems.
+- 🚀 Exploring the intersection of **DevOps** and **Generative AI**.
+- 🧠 Currently sharpening my skills in automation using **Python**, **Bash**, and DevOps tools like Docker, Ansible, and Kubernetes.
+- 🤝 Open to collaborating on impactful tech projects that solve real problems.
+- 🌌 When I’m not coding, I’m probably stargazing or reading about the cosmos.
+ 
+> “Build what matters. Automate what repeats. Stay curious.”
 
 <!---
 Stealth1993/Stealth1993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
